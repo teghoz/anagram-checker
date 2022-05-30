@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\ConsoleApp1\\AnagramChecker.csproj": {}
+    "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\AnagramChecker\\AnagramChecker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\ConsoleApp1\\AnagramChecker.csproj": {
+    "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\AnagramChecker\\AnagramChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\ConsoleApp1\\AnagramChecker.csproj",
+        "projectUniqueName": "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\AnagramChecker\\AnagramChecker.csproj",
         "projectName": "AnagramChecker",
-        "projectPath": "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\ConsoleApp1\\AnagramChecker.csproj",
+        "projectPath": "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\AnagramChecker\\AnagramChecker.csproj",
         "packagesPath": "C:\\Users\\Bernard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Bernard\\Documents\\PROJECTS\\Learnings\\anagrams\\anagram-checker\\Anagram Checker\\AnagramChecker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

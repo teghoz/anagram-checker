@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramChecker", "ConsoleApp1\AnagramChecker.csproj", "{454E6669-9038-4612-9251-8399966F3E1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramChecker", "AnagramChecker\AnagramChecker.csproj", "{454E6669-9038-4612-9251-8399966F3E1A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagram-checker-tests", "anagram-checker-tests\anagram-checker-tests.csproj", "{FE68D458-03FF-41BF-B212-BDDF1050273B}"
 EndProject
